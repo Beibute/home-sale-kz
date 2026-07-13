@@ -64,7 +64,7 @@ window.ITEMS = [
     "brand": "Maxi-Cosi",
     "model": "Pebble Plus",
     "year": 2016,
-    "condition": "Хорошее, всё работает, ~2016 г. Цвет голубой (Frequency Blue). Модель определена по совместимости с базой 2wayFix.",
+    "condition": "Хорошее, всё работает, ~2016 г. Цвет небесно-голубой. Модель определена по совместимости с базой 2wayFix.",
     "specs": [
       "Автолюлька-переноска, группа 0+, i-Size / R129",
       "0–12 мес, рост 45–75 см, до 12 кг",
@@ -78,9 +78,7 @@ window.ITEMS = [
     "priceOursKzt": 40000,
     "discountPct": 71,
     "photos": [
-      "public/photos/maxi-cosi-pebble-plus/1.jpg",
-      "public/photos/maxi-cosi-pebble-plus/2.jpg",
-      "public/photos/maxi-cosi-pebble-plus/3.jpg"
+      "public/photos/maxi-cosi-pebble-plus/1.jpg"
     ],
     "status": "available",
     "olxUrl": null,
