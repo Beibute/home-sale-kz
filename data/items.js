@@ -22,8 +22,7 @@ window.ITEMS = [
     "discountPct": 73,
     "photos": [
       "public/photos/maxi-cosi-2waypearl/1.png",
-      "public/photos/maxi-cosi-2waypearl/2.png",
-      "public/photos/maxi-cosi-2waypearl/3.jpg"
+      "public/photos/maxi-cosi-2waypearl/2.png"
     ],
     "status": "available",
     "olxUrl": null,
@@ -50,8 +49,7 @@ window.ITEMS = [
     "priceOursKzt": 28000,
     "discountPct": 65,
     "photos": [
-      "public/photos/maxi-cosi-2wayfix/1.jpg",
-      "public/photos/maxi-cosi-2wayfix/2.jpg"
+      "public/photos/maxi-cosi-2wayfix/1.jpg"
     ],
     "status": "available",
     "olxUrl": null,

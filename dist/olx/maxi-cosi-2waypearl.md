@@ -33,7 +33,6 @@ Maxi-Cosi 2wayPearl — детское автокресло стандарта i
 **Фото для загрузки** (по порядку, из папки проекта):
 1. public/photos/maxi-cosi-2waypearl/1.png
 2. public/photos/maxi-cosi-2waypearl/2.png
-3. public/photos/maxi-cosi-2waypearl/3.jpg
 
 ---
 ⚠️ Заметки: возраст ~2016 — у автокресел есть срок службы, указано честно в описании. Кресло 2wayPearl крепится ТОЛЬКО на базу 2wayFix — упомянуть покупателю.
