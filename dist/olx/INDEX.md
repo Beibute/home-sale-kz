@@ -1,4 +1,4 @@
-# OLX-пакеты — готовы к подаче (6 шт.)
+# OLX-пакеты — готовы к подаче (7 шт.)
 
 Город: Астана. Контакт: +77018336550 (тел/WhatsApp).
 Категория для всех: Детский мир → Детские автокресла. Тип: Частное, состояние Б/у.
@@ -11,3 +11,4 @@
 | 4 | Велокресло Author / Polisport Bubbly Maxi+ CFS (на багажник, до 22 кг) | 25 000 ₸ | [author-bubbly-maxi-cfs.md](./author-bubbly-maxi-cfs.md) |
 | 5 | Бустер Graco TurboBooster без спинки (сиденье, гр. 3, ~22–36 кг) | 15 000 ₸ | [graco-turbobooster.md](./graco-turbobooster.md) |
 | 6 | Автокресло Chicco Oasys 2-3 FixPlus (ISOFIX, гр. 2-3, 15–36 кг) | 40 000 ₸ | [chicco-oasys-23-fixplus.md](./chicco-oasys-23-fixplus.md) |
+| 7 | Детский самокат Mini Micro Deluxe (3-колёсный, 2–5 лет) | 22 000 ₸ | [mini-micro-deluxe.md](./mini-micro-deluxe.md) |
