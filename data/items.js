@@ -1,0 +1,89 @@
+// АВТОГЕНЕРАЦИЯ tools/build-items.mjs из registry/items.json — не редактировать вручную.
+window.ITEMS = [
+  {
+    "id": "maxi-cosi-2waypearl",
+    "title": "Автокресло Maxi-Cosi 2wayPearl тёмно-красное (i-Size, 67–105 см)",
+    "category": "Детские товары",
+    "brand": "Maxi-Cosi",
+    "model": "2wayPearl",
+    "year": 2016,
+    "condition": "Хорошее, всё работает, ~2016 г. Цвет тёмно-красный. Крепится только на базу 2wayFix.",
+    "specs": [
+      "Стандарт i-Size / ECE R129",
+      "Рост 67–105 см, до 18,5 кг (~6 мес–4 года)",
+      "Установка против и по ходу движения",
+      "5-точечные ремни + регулируемый подголовник",
+      "Крепление только на базу 2wayFix (ISOFIX)"
+    ],
+    "description": "Maxi-Cosi 2wayPearl — детское автокресло стандарта i-Size (ECE R129), одна из первых моделей под этот стандарт. Для детей примерно от 6 месяцев до 4 лет (рост 67–105 см, вес до 18,5 кг). Устанавливается против хода движения (рекомендовано до 4 лет для защиты головы и шеи) и по ходу — с 15 месяцев. Крепится только на отдельную ISOFIX-базу 2wayFix. В независимых краш-тестах ADAC/ÖAMTC получало оценку «хорошо».\n\nСостояние хорошее, всё исправно. Год выпуска ~2016 — продаётся как есть. Важно: без базы 2wayFix кресло в машину не крепится.",
+    "priceNewKzt": 200000,
+    "priceNewSource": "ориентир по актуальной модели-замене Pearl 360 Pro (без базы), Kaspi/e-katalog KZ, июль 2026; сама 2wayPearl снята с производства",
+    "priceOursKzt": 55000,
+    "discountPct": 73,
+    "photos": [
+      "public/photos/maxi-cosi-2waypearl/1.png",
+      "public/photos/maxi-cosi-2waypearl/2.png",
+      "public/photos/maxi-cosi-2waypearl/3.jpg"
+    ],
+    "status": "available",
+    "olxUrl": null,
+    "olxCategoryHint": "Детский мир / Детские автокресла"
+  },
+  {
+    "id": "maxi-cosi-2wayfix",
+    "title": "База ISOFIX Maxi-Cosi 2wayFix (i-Size)",
+    "category": "Детские товары",
+    "brand": "Maxi-Cosi",
+    "model": "2wayFix",
+    "year": 2016,
+    "condition": "Хорошее, всё работает. Дата выпуска 02.03.2016.",
+    "specs": [
+      "ISOFIX-база i-Size + опорная ножка в пол",
+      "Под Pebble/Pebble Plus (0+) и 2wayPearl (гр. 1)",
+      "Цветовые и звуковые индикаторы установки",
+      "Анти-ребаунд-бар, система click & go",
+      "Ref 76300080, EAN 8712930103264"
+    ],
+    "description": "Maxi-Cosi 2wayFix — ISOFIX-база стандарта i-Size под автолюльку Pebble/Pebble Plus (группа 0+) и кресло 2wayPearl (группа 1): используется от рождения до ~4 лет со сменой верхней части. Фиксируется через ISOFIX с упорной ножкой в пол; цветовые и звуковые индикаторы исключают ошибку установки, есть анти-ребаунд-бар. Верхняя часть ставится и снимается по принципу «click & go» за секунды.\n\nСостояние хорошее, всё исправно. Дата выпуска на бирке — 02.03.2016, продаётся как есть.",
+    "priceNewKzt": 79200,
+    "priceNewSource": "цена новой базы 2wayFix, Minim.kz (нет в наличии), июль 2026",
+    "priceOursKzt": 28000,
+    "discountPct": 65,
+    "photos": [
+      "public/photos/maxi-cosi-2wayfix/1.jpg",
+      "public/photos/maxi-cosi-2wayfix/2.jpg"
+    ],
+    "status": "available",
+    "olxUrl": null,
+    "olxCategoryHint": "Детский мир / Детские автокресла"
+  },
+  {
+    "id": "maxi-cosi-pebble-plus",
+    "title": "Автолюлька Maxi-Cosi Pebble Plus голубая (i-Size, 0–12 мес)",
+    "category": "Детские товары",
+    "brand": "Maxi-Cosi",
+    "model": "Pebble Plus",
+    "year": 2016,
+    "condition": "Хорошее, всё работает, ~2016 г. Цвет голубой. Модель определена по совместимости с базой 2wayFix.",
+    "specs": [
+      "Автолюлька-переноска, группа 0+, i-Size / R129",
+      "0–12 мес, рост 45–75 см, до 12 кг",
+      "Только против хода движения",
+      "На базу 2wayFix/3wayFix или штатным ремнём",
+      "Вкладыш для новорождённого, боковая защита, капюшон"
+    ],
+    "description": "Maxi-Cosi Pebble Plus — автолюлька-переноска (автокресло группы 0+) стандарта i-Size (ECE R129) для новорождённых примерно от 0 до 12 месяцев (рост 45–75 см, вес до 12 кг). Устанавливается против хода движения, крепится на ISOFIX-базу 2wayFix/3wayFix (click & go) либо штатным ремнём безопасности; совместима с колясками Maxi-Cosi/Quinny через адаптеры. Анатомический вкладыш для новорождённого, боковая защита, регулируемый капюшон.\n\nСостояние хорошее, всё исправно. Год выпуска ~2016 — продаётся как есть.",
+    "priceNewKzt": 140000,
+    "priceNewSource": "ориентир по актуальной модели-замене Pebble 360 / Pebble Pro i-Size, Kaspi/e-katalog KZ, июль 2026; Pebble Plus снята с производства",
+    "priceOursKzt": 40000,
+    "discountPct": 71,
+    "photos": [
+      "public/photos/maxi-cosi-pebble-plus/1.jpg",
+      "public/photos/maxi-cosi-pebble-plus/2.jpg",
+      "public/photos/maxi-cosi-pebble-plus/3.jpg"
+    ],
+    "status": "available",
+    "olxUrl": null,
+    "olxCategoryHint": "Детский мир / Детские автокресла"
+  }
+];

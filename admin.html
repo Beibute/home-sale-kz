@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Админка · Распродажа</title>
+  <meta name="robots" content="noindex" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔧</text></svg>" />
+</head>
+<body>
+  <div class="wrap">
+    <!-- Гейт -->
+    <div class="admin-gate" id="gate">
+      <h1>🔧 Админка</h1>
+      <p style="color:var(--muted)">Введите PIN для управления объявлениями.</p>
+      <input id="pin" type="password" inputmode="numeric" maxlength="8" placeholder="••••" autocomplete="off" />
+      <p id="pinErr" style="color:var(--danger);min-height:20px;font-size:13px"></p>
+    </div>
+
+    <!-- Панель -->
+    <div id="panel" style="display:none">
+      <header style="display:flex;align-items:center;gap:14px;flex-wrap:wrap;padding:26px 0 6px">
+        <h1 style="margin:0;font-size:24px">🔧 Управление объявлениями</h1>
+        <span class="backend-tag" id="backendTag">—</span>
+        <div class="spacer" style="flex:1"></div>
+        <a class="btn" href="index.html" target="_blank">Открыть витрину ↗</a>
+        <button class="btn" id="exportBtn" title="Скачать registry/items.json со статусами">Экспорт JSON</button>
+      </header>
+      <p style="color:var(--muted);font-size:13px">
+        Статус меняется мгновенно. «Продано»/«Бронь» → карточка на витрине гаснет и уходит из «Доступных». «Скрыть» → убирает вещь с сайта совсем.
+      </p>
+      <table class="admin-table">
+        <thead><tr><th>Вещь</th><th>Категория</th><th>Цена</th><th>Статус</th><th>Скрыть</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+  </div>
+  <div class="toast" id="toast"></div>
+
+  <script src="data/config.js"></script>
+  <script src="data/items.js"></script>
+  <script src="js/status-store.js"></script>
+  <script src="js/admin.js"></script>
+</body>
+</html>
