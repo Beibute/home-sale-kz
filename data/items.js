@@ -184,7 +184,7 @@ window.ITEMS = [
     "priceOursKzt": 22000,
     "discountPct": 56,
     "photos": [
-      "public/photos/mini-micro-deluxe/public/photos/mini-micro-deluxe/1.png"
+      "public/photos/mini-micro-deluxe/1.png"
     ],
     "status": "available",
     "olxUrl": null,
